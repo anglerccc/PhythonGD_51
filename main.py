@@ -7,7 +7,7 @@ for i in numbers:
     if i == "+":
         print()
     else:
-        continue
+        
 
 
 
